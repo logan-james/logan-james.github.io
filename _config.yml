@@ -8,8 +8,8 @@ middle_name:
 last_name: Arguello
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-A space to share my interest. 
-footer_text: 
+  Logan Arguello's homepage.
+footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -20,7 +20,7 @@ last_updated: false # set to true if you want to display last updated in the foo
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
-# Theme 
+# Theme
 # -----------------------------------------------------------------------------
 
 # repo color theme
