@@ -4,17 +4,17 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Logan
-middle_name:
-last_name: Arguello
+middle_name: A.
+last_name: James
 email: # you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Logan Arguello's homepage.
+  Logan James's homepage.
 footer_text: >
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://loganarguello.github.io/ # the base hostname & protocol for your site
+url: https://logan-james.github.io/ # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -71,7 +71,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: loganarguello # your GitHub user name
+github_username: logan-james # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
@@ -288,8 +288,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Arguello]
-  first_name: [Logan, J.]
+  last_name: [James]
+  first_name: [Logan, A.]
 
   style: apa
   locale: en
