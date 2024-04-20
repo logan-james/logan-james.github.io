@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 University Of Helsinki's MOOC is very useful for learning or even refreshing basic knowledge 📚 🦉
-

@@ -55,7 +55,6 @@
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
-  
   ],
   "work": [
     {
@@ -132,7 +131,7 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }    
+    }
   ],
   "interests": [
     {

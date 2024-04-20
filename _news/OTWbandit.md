@@ -19,7 +19,6 @@ OverTheWire's Bandit game offers an engaging and hands-on way to learn the basic
 - **Safe and Legal:** Explore hacking techniques without risking legal consequences.
 - **Community Support:** Join a community of learners and experts alike.
 
-
 Bandit takes you from simple tasks to more complex challenges, each designed to teach a specific skill or command. You'll start with basic commands like `ls`, `cd`, and `cat`, and advance to more complex tasks involving SSH, network services, and data manipulation.
 
 ---
