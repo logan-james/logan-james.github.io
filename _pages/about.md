@@ -16,7 +16,6 @@ social: true # includes social icons at the bottom of the page
 
 I'm a passionate Computer Science student with a interest in the ever-evolving field of Cyber Security. Through this blog, I aim to document my journey, share insights, and connect with like-minded individuals as I delve deeper into the world of cyber defense and security.
 
-Beyond the digital world, I have a appreciation for the great outdoors. Whether it's hiking, camping, or simply exploring nature, I find these activities rejuvenate my spirit and inspire creativity. 
+Beyond the digital world, I have a appreciation for the great outdoors. Whether it's hiking, camping, or simply exploring nature, I find these activities rejuvenate my spirit and inspire creativity.
 
 I hope to make this space a reflection of both my professional aspirations and personal passions.
-
