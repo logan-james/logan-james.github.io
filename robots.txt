@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://loganarguello.github.io//sitemap.xml
+Sitemap: https://logan-james.github.io//sitemap.xml
