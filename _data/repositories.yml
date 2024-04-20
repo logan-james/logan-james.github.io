@@ -2,10 +2,8 @@ github_users:
   - logan-james
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - logan-james/mooc-java-programming-i
+  - logan-james/python-mooc-24
+  - logan-james/cs311A2
+  - logan-james/state_capitals
+  - logan-james/logan-james.github.io
