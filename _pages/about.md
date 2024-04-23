@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science student focus in cybersecurity
+subtitle:  <a href='https://cotoacademy.com/kaizen '>Kaizen</a>. Progress daily. 
+
 
 profile:
   align: right
