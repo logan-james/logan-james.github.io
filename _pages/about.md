@@ -7,7 +7,7 @@ subtitle:  <a href='https://cotoacademy.com/kaizen '>Kaizen</a>. Progress daily.
 
 profile:
   align: right
-  image: icon2.PNG
+  image: iconHeadShot.PNG
   image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
