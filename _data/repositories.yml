@@ -2,8 +2,11 @@ github_users:
   - logan-james
 
 github_repos:
+  - logan-james/Profanity_Detector
+  - logan-james/python-routing-program
+  - logan-james/state_capitals
+  - logan-james/logan-james.github.io
   - logan-james/mooc-java-programming-i
   - logan-james/python-mooc-24
   - logan-james/cs311A2
-  - logan-james/state_capitals
-  - logan-james/logan-james.github.io
+  - logan-james/hello-world

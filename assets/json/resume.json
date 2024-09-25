@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Logan James",
+    "name": "Logan A. James",
     "label": "Computer Scientists",
     "image": "",
     "email": "iamloganjames@protonmail.com",
@@ -24,9 +24,9 @@
       "location": "Utah, USA",
       "url": "https://www.wgu.edu/",
       "area": "Computer Science",
-      "studyType": "B.S. CS",
+      "studyType": "B.S. Computer Science",
       "startDate": "2023-10-25",
-      "endDate": "2025-01",
+      "endDate": "2024-09",
       "score": "10"
     }
   ],
@@ -37,46 +37,62 @@
       "issuer": "Google / Coursera",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Security+",
-      "date": "2018-01-01",
-      "issuer": "CompTIA",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
+    // {
+    //   "name": "Security+",
+    //   "date": "2018-01-01",
+    //   "issuer": "CompTIA",
+    //   "url": "https://example.com",
+    //   "icon": "fa-solid fa-clipboard-check"
+    // }
   ],
   "projects": [
     {
-      "name": "Java Capstone",
-      "summary": "Forming a capstone project in Java for my B.S CS.",
-      "highlights": ["Data Structures & Algorithms", "Database Integration"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ],
-  "work": [
+      "name": "Python Routing Program",
+      "summary": "Developed a Python-based routing program for WGUPS to optimize delivery truck routes and ensure all packages were delivered under 140 miles while meeting strict deadlines.",
+      "highlights": ["Implemented nearest-neighbor algorithm", "Managed complex delivery constraints", "Optimized routes for multiple trucks"],
+      "startDate": "2024-01-15",
+      "endDate": "2024-02-28",
+      "url": "https://example.com/wgups-routing-program"
+    },
     {
-      "name": "Independent Studies",
-      "position": "Docker, Kubernetes, and Linux.",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Self study is my strength, always learning and staying up to date on latest technologies.",
-      "highlights": ["Linux", "Cloud"]
+      "name": "Machine Learning Profanity Detector",
+      "summary": "Created a machine learning application to detect and classify profane language in user-generated content using a supervised learning algorithm.",
+      "highlights": ["Trained on a large profanity dataset", "Built with Python and Scikit-learn", "Provided real-time content filtering"],
+      "startDate": "2024-03-01",
+      "endDate": "2024-04-15",
+      "url": "https://example.com/ml-profanity-detector"
+    },
+    {
+      "name": "SIEM and ERD Cybersecurity Project",
+      "summary": "Built a Security Information and Event Management (SIEM) system with a detailed Entity-Relationship Diagram (ERD) to monitor and detect cybersecurity threats.",
+      "highlights": ["Developed custom dashboards for monitoring", "Designed database schema for efficient log storage", "Implemented real-time threat detection"],
+      "startDate": "2024-05-01",
+      "endDate": "2024-06-30",
+      "url": "https://example.com/siem-erd-project"
     }
   ],
+  // "work": [
+  //   {
+  //     "name": "Independent Studies",
+  //     "position": "Docker, Kubernetes, and Linux.",
+  //     "url": "https://example.com",
+  //     "startDate": "1933-01-01",
+  //     "endDate": "1955-01-01",
+  //     "summary": "Self study is my strength, always learning and staying up to date on latest technologies.",
+  //     "highlights": ["Linux", "Cloud"]
+  //   }
+  // ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+     "organization": "Open Net Coalition",
+      "location": "Online",
+      "position": "Advocator",
+      "url": "https://opennetcoalition-example.org",
+      "startDate": "2019-08-01",
+      "endDate": "2020-11-01",
+      "summary": "Advocated for an open and free internet through online campaigns, helping raise awareness about the importance of net neutrality and resistance to digital censorship across various social media platforms.",
+      "highlights": ["Contributed to an online petition that gathered over 500,000 signatures in support of net neutrality legislation.", "Organized virtual discussions with industry experts and digital rights activists to spread awareness of free internet principles."]
     }
   ],
   "skills": [
@@ -85,12 +101,12 @@
       "level": "Proficient",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Bash Scripting",
+        "System Administration",
+        "Command Line",
+        "Package Management",
+        "Shell Scripting",
+        "Networking"
       ]
     },
     {
@@ -98,12 +114,12 @@
       "level": "Proficient",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Object-Oriented Programming",
+        "Spring Framework",
+        "JVM",
+        "Multithreading",
+        "JUnit Testing",
+        "Maven/Gradle"
       ]
     },
     {
@@ -111,12 +127,12 @@
       "level": "Proficient",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Containerization",
+        "Docker Compose",
+        "Image Building",
+        "Container Orchestration",
+        "Microservices",
+        "CI/CD Integration"
       ]
     },
     {
@@ -124,26 +140,51 @@
       "level": "Proficient",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "EC2",
+        "S3",
+        "Lambda",
+        "CloudFormation",
+        "IAM",
+        "RDS"
       ]
     }
   ],
   "interests": [
     {
-      "name": "Ethical Hacking",
-      "icon": "fa-solid fa-tag",
+      "name": "Cybersecurity",
+      "icon": "fa-solid fa-shield-halved",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Network Security",
+        "Cryptography",
+        "Ethical Hacking",
+        "Malware Analysis",
+        "Incident Response",
+        "Penetration Testing"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Front-end Development",
+        "Back-end Development",
+        "Full-stack Development",
+        "Responsive Design",
+        "JavaScript Frameworks",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "name": "Touching Grass",
+      "icon": "fa-solid fa-mountain",
+      "keywords": [
+        "Camping",
+        "Hiking",
+        "Biking",
+        "Exploring Nature",
+        "Outdoor Adventures",
+        "Disconnecting from Technology",
+        "Mindfulness in Nature"
       ]
     }
   ]
