@@ -1,8 +1,9 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle:  <a href='https://cotoacademy.com/kaizen '>Kaizen</a>. Progress daily. 
+permalink: /  
+subtitle:  Progress daily. 
+#<a href='https://cotoacademy.com/kaizen '>Kaizen</a>. 
 
 
 profile:
