@@ -3,7 +3,7 @@
     "name": "Logan A. James",
     "label": "Computer Scientists",
     "image": "",
-    "email": "iamloganjames@protonmail.com",
+    "email": "loganajames@pm.me",
     "url": "https://logan-james.dev/",
     "summary": "Comp Sci student with focus in security.",
     "location": {
@@ -35,6 +35,13 @@
       "name": "Google Cybersecurity",
       "date": "2018-01-01",
       "issuer": "Google / Coursera",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "CompTIA Security+",
+      "date": "expected 10/30",
+      "issuer": "CompTIA",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
     }
