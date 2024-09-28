@@ -1,1 +1,1 @@
-# Progress daily. 
+# Progress daily.

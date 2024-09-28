@@ -8,11 +8,9 @@ category: work
 #related_publications: true
 ---
 
-
 ## Overview
 
-
-In this write-up, I will explain the development and implementation of a package delivery system. This system utilizes data structures like hash tables and algorithms such as the Nearest Neighbor to optimize package delivery routes while adhering to time and mileage constraints. 
+In this write-up, I will explain the development and implementation of a package delivery system. This system utilizes data structures like hash tables and algorithms such as the Nearest Neighbor to optimize package delivery routes while adhering to time and mileage constraints.
 
 ## Hash Table Implementation
 
@@ -25,6 +23,7 @@ The core of the system is a custom-built **hash table** designed for fast data a
 This hash table ensures that all package data, such as delivery address, deadlines, status, and more, are stored and accessed efficiently.
 
 ## Package Lookup Functionality
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/lookup.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -57,7 +56,7 @@ While these alternatives offer better optimization, they come with the cost of h
 
 ## Hash Table vs. Other Data Structures
 
-The chosen **hash table** data structure provides O(1) average time complexity for lookups and updates, making it ideal for real-time systems like the WGUPS. 
+The chosen **hash table** data structure provides O(1) average time complexity for lookups and updates, making it ideal for real-time systems like the WGUPS.
 
 - **Binary Search Trees (BST)**: Offer O(log n) time complexity but can become unbalanced, reducing efficiency.
 - **Array-based lists**: Provide fast sequential access but are inefficient for searching, with O(n) time complexity for lookups.
@@ -76,6 +75,6 @@ The **WGUPS Routing Program** successfully implements a package delivery system 
 
 ### References
 
-1. Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). *Introduction to Algorithms* (3rd ed.). MIT Press.
-2. Skiena, S. S. (2020). *The Algorithm Design Manual* (3rd ed.). Springer.
-3. Sedgewick, R., & Wayne, K. (2011). *Algorithms* (4th ed.). Addison-Wesley Professional.
+1. Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). _Introduction to Algorithms_ (3rd ed.). MIT Press.
+2. Skiena, S. S. (2020). _The Algorithm Design Manual_ (3rd ed.). Springer.
+3. Sedgewick, R., & Wayne, K. (2011). _Algorithms_ (4th ed.). Addison-Wesley Professional.

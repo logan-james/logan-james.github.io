@@ -73,7 +73,11 @@
     {
       "name": "SIEM and ERD Cybersecurity Project",
       "summary": "Built a Security Information and Event Management (SIEM) system with a detailed Entity-Relationship Diagram (ERD) to monitor and detect cybersecurity threats.",
-      "highlights": ["Developed custom dashboards for monitoring", "Designed database schema for efficient log storage", "Implemented real-time threat detection"],
+      "highlights": [
+        "Developed custom dashboards for monitoring",
+        "Designed database schema for efficient log storage",
+        "Implemented real-time threat detection"
+      ],
       "startDate": "2024-05-01",
       "endDate": "2024-06-30",
       "url": "https://example.com/siem-erd-project"
@@ -92,14 +96,17 @@
   // ],
   "volunteer": [
     {
-     "organization": "Open Net Coalition",
+      "organization": "Open Net Coalition",
       "location": "Online",
       "position": "Advocator",
       "url": "https://opennetcoalition-example.org",
       "startDate": "2019-08-01",
       "endDate": "2020-11-01",
       "summary": "Advocated for an open and free internet through online campaigns, helping raise awareness about the importance of net neutrality and resistance to digital censorship across various social media platforms.",
-      "highlights": ["Contributed to an online petition that gathered over 500,000 signatures in support of net neutrality legislation.", "Organized virtual discussions with industry experts and digital rights activists to spread awareness of free internet principles."]
+      "highlights": [
+        "Contributed to an online petition that gathered over 500,000 signatures in support of net neutrality legislation.",
+        "Organized virtual discussions with industry experts and digital rights activists to spread awareness of free internet principles."
+      ]
     }
   ],
   "skills": [
@@ -107,67 +114,32 @@
       "name": "Linux",
       "level": "Proficient",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Bash Scripting",
-        "System Administration",
-        "Command Line",
-        "Package Management",
-        "Shell Scripting",
-        "Networking"
-      ]
+      "keywords": ["Bash Scripting", "System Administration", "Command Line", "Package Management", "Shell Scripting", "Networking"]
     },
     {
       "name": "Java",
       "level": "Proficient",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Object-Oriented Programming",
-        "Spring Framework",
-        "JVM",
-        "Multithreading",
-        "JUnit Testing",
-        "Maven/Gradle"
-      ]
+      "keywords": ["Object-Oriented Programming", "Spring Framework", "JVM", "Multithreading", "JUnit Testing", "Maven/Gradle"]
     },
     {
       "name": "Docker",
       "level": "Proficient",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Containerization",
-        "Docker Compose",
-        "Image Building",
-        "Container Orchestration",
-        "Microservices",
-        "CI/CD Integration"
-      ]
+      "keywords": ["Containerization", "Docker Compose", "Image Building", "Container Orchestration", "Microservices", "CI/CD Integration"]
     },
     {
       "name": "AWS",
       "level": "Proficient",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "EC2",
-        "S3",
-        "Lambda",
-        "CloudFormation",
-        "IAM",
-        "RDS"
-      ]
+      "keywords": ["EC2", "S3", "Lambda", "CloudFormation", "IAM", "RDS"]
     }
   ],
   "interests": [
     {
       "name": "Cybersecurity",
       "icon": "fa-solid fa-shield-halved",
-      "keywords": [
-        "Network Security",
-        "Cryptography",
-        "Ethical Hacking",
-        "Malware Analysis",
-        "Incident Response",
-        "Penetration Testing"
-      ]
+      "keywords": ["Network Security", "Cryptography", "Ethical Hacking", "Malware Analysis", "Incident Response", "Penetration Testing"]
     },
     {
       "name": "Web Development",
@@ -184,15 +156,7 @@
     {
       "name": "Touching Grass",
       "icon": "fa-solid fa-mountain",
-      "keywords": [
-        "Camping",
-        "Hiking",
-        "Biking",
-        "Exploring Nature",
-        "Outdoor Adventures",
-        "Disconnecting from Technology",
-        "Mindfulness in Nature"
-      ]
+      "keywords": ["Camping", "Hiking", "Biking", "Exploring Nature", "Outdoor Adventures", "Disconnecting from Technology", "Mindfulness in Nature"]
     }
   ]
 }
