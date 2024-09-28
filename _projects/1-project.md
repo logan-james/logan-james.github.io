@@ -5,7 +5,6 @@ description: a machine learning project that detects profanity
 img: assets/img/gui.jpeg
 importance:
 category: work
-related_publications: true
 ---
 **Machine Learning**
 
