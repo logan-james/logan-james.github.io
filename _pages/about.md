@@ -7,7 +7,7 @@ subtitle: Progress daily.
 
 profile:
   align: right
-  image: iconHeadShot.PNG
+  image: 1hsB&W.png
   image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
