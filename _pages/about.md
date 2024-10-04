@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Progress daily.
-#<a href='https://cotoacademy.com/kaizen '>Kaizen</a>.
+subtitle: <a href='https://logan-james.dev/blog/2024/Progress-Through-Protection'> Progress Through Protection </a>
 
 profile:
   align: right
@@ -15,8 +14,8 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a passionate Computer Science student with a interest in the ever-evolving field of Cyber Security. Through this blog, I aim to document my journey, share insights, and connect with like-minded individuals as I delve deeper into the world of cyber defense and security.
+I’m a dedicated Computer Science graduate specializing in Cybersecurity and Security Analysis. My passion lies in protecting organizations from emerging threats through effective incident response, vulnerability assessment, and security monitoring. This blog serves as a platform to share my journey, insights, and practical experiences as I work toward building a career in cybersecurity and defense.
 
-Beyond the digital world, I have a appreciation for the great outdoors. Whether it's hiking, camping, or simply exploring nature, I find these activities rejuvenate my spirit and inspire creativity.
+In addition to my technical pursuits, I find inspiration in the great outdoors. Hiking, camping, and exploring nature help me recharge and fuel my creativity, which in turn enhances my problem-solving skills.
 
-I hope to make this space a reflection of both my professional aspirations and personal passions.
+This space is a reflection of both my professional journey in cybersecurity and my personal passion for exploration and continuous growth.
