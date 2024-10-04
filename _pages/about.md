@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://logan-james.dev/blog/2024/Progress-Through-Protection'> Progress Through Protection </a>
+subtitle: <a href='https://logan-james.dev/blog/2024/Progress-Through-Protection.md/'> Progress Through Protection </a>
+
 
 profile:
   align: right
