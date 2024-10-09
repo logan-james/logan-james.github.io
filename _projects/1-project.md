@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Profanity Detector
-description: a machine learning project that detects profanity
+description: A machine learning project that detects profanity.
 img: assets/img/gui.jpeg
 importance:
 category: work

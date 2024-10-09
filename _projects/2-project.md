@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Routing Program
-description: package delivery system
+description: Package delivery system.
 img: assets/img/routing.jpeg
 importance:
 category: work
