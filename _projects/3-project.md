@@ -40,8 +40,6 @@ To provide a hands-on example, we'll analyze a captured file named `web server.p
 
 ## Screenshot 1: Capture File Properties
 
-![Wireshark Capture File Properties](wireshark1.jpeg)
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/wireshark1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -61,8 +59,6 @@ This information provides context for the volume and nature of the traffic, help
 
 ## Screenshot 2: Packet List View
 
-![Wireshark Packet List View](wireshark2.png)
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/wireshark2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -76,8 +72,6 @@ This screenshot shows the packet list for the `web server.pcap` file. The view h
 - **Error Messages**: Errors such as `STATUS_NOT_FOUND` indicate the client attempted to access a non-existent path, useful for troubleshooting file share or permissions issues.
 
 ## Screenshot 3: Protocol Hierarchy Statistics
-
-![Wireshark Protocol Hierarchy Statistics](wireshark3.png)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -96,8 +90,6 @@ The hierarchical view quickly reveals the protocol distribution, helping analyst
 
 ## Screenshot 4: Conversations Overview
 
-![Wireshark Conversations Overview](wireshark4.png)
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/wireshark4.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -110,8 +102,6 @@ In this screenshot, the Conversations view shows the communication between IP ad
 - **Additional Details**: Smaller conversations are also visible, such as between `10.0.0.105` and `10.0.0.115`, which are relevant to understanding the file-sharing activities. The duration column provides insight into how long each conversation lasted, which can indicate the persistence or briefness of certain connections.
 
 ## Screenshot 5: Top IPs and Ports
-
-![Wireshark Top IPs and Ports](wireshark5.png)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
