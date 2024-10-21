@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://logan-james.dev/blog/2024/Journey-Fueled-by-Curiosity.md/'> A Journey Fueled by Curiosity </a>
+subtitle: <a href='https://logan-james.dev/blog/2024/Journey-Fueled-by-Curiosity/'> A Journey Fueled by Curiosity </a>
+
 
 profile:
   align: right
