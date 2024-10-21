@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://logan-james.dev/blog/2024/Progress-Through-Protection.md/'> Progress Through Protection </a>
+subtitle: <a href='https://logan-james.dev/blog/2024/Journey-Fueled-by-Curiosity.md/'> A Journey Fueled by Curiosity </a>
 
 profile:
   align: right
@@ -14,7 +14,7 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a Computer Science graduate with a strong interest in IT security and network operations. Currently, I’m deepening my expertise by studying for the Security+ certification and exploring broader IT roles, including network administration as I prepare for the CCNA. I’m passionate about building secure systems, protecting against cyber threats, and contributing to the resilience of organizations.
+I’m a Computer Science graduate with a strong interest in IT security and network operations. Currently, I’m deepening my expertise by studying for certifications and exploring broader IT roles. I’m passionate about building secure systems, protecting against cyber threats, and contributing to the resilience of organizations.
 
 This blog is a place where I share insights from my journey in IT, as I work to hone my skills in cybersecurity and networking. My focus is on practical solutions, continuous learning, and staying up-to-date with industry developments to be well-prepared for a dynamic and evolving field.
 
