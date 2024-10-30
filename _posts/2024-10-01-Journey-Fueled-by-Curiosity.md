@@ -5,30 +5,26 @@ date: 2024-02-10 17:39:00
 tags: Security
 ---
 
-## A Journey Fueled by Curiosity
-
-Hi, I'm Logan, a recent Computer Science graduate who’s passionate about technology, particularly in the areas of cybersecurity and network security. My journey into tech started with a simple curiosity about how things work. From the first time I wrote code and saw it run successfully, I knew I wanted to dive deeper into the world of technology.
+Hi, I'm Logan, a recent Computer Science graduate who’s passionate about technology, particularly in the areas of networks and cybersecurity. My journey into tech started with a simple curiosity about how things work. From the first time I wrote code and saw it run successfully, I knew I wanted to dive deeper into the world of technology.
 
 What truly drives me is the opportunity to learn, to discover, and to keep improving. Every day brings something new to explore, and I'm always excited about the possibilities that come with each new challenge. I don’t have all the answers, but I believe in the power of asking questions and staying curious.
 
-## Learning to Build a Safer Digital World
+### Bridging Code and Connectivity
 
-Through my studies and personal projects, I've developed a particular interest in cybersecurity. I’m fascinated by the complexity of digital threats and the ingenuity required to protect against them. For me, cybersecurity is about more than just preventing attacks—it's about understanding the broader picture and contributing to the resilience of our digital world.
+In my academic projects, I've worked extensively with Java, but I have a particular affinity for Python due to its simplicity and versatility. I'm eager to expand my skills in writing automation scripts and leveraging languages like Python, Bash, or PowerShell for networking tasks. This intersection of coding and networking fascinates me, and I'm continually exploring new ways to integrate the two.
 
-I’m still learning every day. Whether it’s studying for certifications, experimenting with new technologies, or simply reading the latest news in cybersecurity, I’m always looking for ways to grow and improve. I know there’s a lot I don’t know, but I’m eager to keep pushing forward.
+Before diving into computer science, I gained valuable experience working in industrial environments as an electrician. This role ignited my interest in the technical aspects of SCADA and PLC systems, steering me back to school to explore the digital side of operations. Understanding how these systems work from the inside out has been a thrilling journey.
 
-## Beyond the Code
+### Beyond the Screen
 
-While I love the technical side of things, I’ve learned that it’s important to take time away from the screen. Outside of tech, I find balance and inspiration in the outdoors. Hiking, camping, and spending time in nature help me clear my mind and approach problems with a fresh perspective.
+Outside of technology, I have a lifelong passion for martial arts, including wrestling and jiu-jitsu. These disciplines have taught me the importance of discipline, focus, and continuous learning—principles I carry into my professional life. I also find balance and inspiration in the outdoors. Hiking, camping, and spending time in nature help me clear my mind and approach problems with a fresh perspective.
 
-These moments of reflection remind me that progress isn’t always about moving fast; sometimes it’s about being patient, thinking carefully, and finding the right solution rather than the quick one.
+### Looking Forward
 
-## Looking Forward
+As I continue my journey, I'm committed to deepening my understanding of networking fundamentals and cybersecurity. I'm particularly interested in how data moves and how to protect it. My goal is to contribute to open-source privacy and security tools, helping to build a safer digital world for everyone.
 
-As I continue my journey, I’m committed to remaining open to new opportunities and challenges. My goal is to keep learning, keep growing, and, most importantly, keep contributing to a safer digital future. I don’t have everything figured out, but I’m excited to see where this path takes me.
-
-Thanks for stopping by, and I look forward to sharing more of my journey with you as I continue to explore the ever-changing world of technology.
+Thank you for stopping by. I'm excited about the possibilities ahead and look forward to sharing more of my journey as I explore the ever-changing landscape of technology.
 
 ---
 
-_Stay secure, stay curious._
+_Stay curious._

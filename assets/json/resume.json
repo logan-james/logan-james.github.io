@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Logan A. James",
-    "label": "Tech Security Enthusiast",
+    "label": "Tech Enthusiast",
     "image": "",
     "email": "",
     "url": "",
@@ -129,10 +129,21 @@
       "keywords": ["Containerization", "Docker Compose", "Image Building", "Container Orchestration", "Microservices", "CI/CD Integration"]
     },
     {
-      "name": "AWS",
-      "level": "Proficient",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["EC2", "S3", "Lambda", "CloudFormation", "IAM", "RDS"]
+      "name": "Networking",
+      "icon": "fa-solid fa-network-wired",
+      "keywords": [
+        "Network Protocols",
+        "Subnetting",
+        "IP Addressing",
+        "Routing and Switching",
+        "Network Security",
+        "TCP/IP",
+        "OSI Model",
+        "LAN/WAN",
+        "Firewalls",
+        "VPN",
+        "Wireless Networking"
+      ]
     }
   ],
   "interests": [

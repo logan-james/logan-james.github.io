@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Bachelors in Computer Science finished!
+Obtained CompTIA Security+
