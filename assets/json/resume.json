@@ -45,13 +45,6 @@
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
     }
-    // {
-    //   "name": "Security+",
-    //   "date": "2018-01-01",
-    //   "issuer": "CompTIA",
-    //   "url": "https://example.com",
-    //   "icon": "fa-solid fa-clipboard-check"
-    // }
   ],
   "projects": [
     {

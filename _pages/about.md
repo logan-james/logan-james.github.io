@@ -14,14 +14,14 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Logan, a Computer Science graduate with a passion for IT security and network operations. My journey into technology wasn't a straight path—it began in the industrial environments where I worked as an electrician. Fascinated by how SCADA and PLC systems functioned, I found myself more intrigued by the software controlling the hardware than the electrical work itself. This curiosity led me back to school and set me on the path I'm on today.
+Hello, I'm Logan—a Computer Science graduate passionate about IT security and network operations. My journey into technology wasn't a straight path—it began in childhood and reignited briefly when I worked as an electrician. During that time, I became fascinated by the software controlling industrial systems more than the electrical work itself. This realization led me back to school and set me on the path I'm pursuing today.
 
-Currently, I'm enhancing my expertise by studying for the CompTIA Security+ and CCNA certifications. I spend my time working with tools like Cisco Packet Tracer to simulate complex networks, and I'm exploring how to leverage Python, Bash, and PowerShell for automation in networking. My goal is to deepen my understanding of how data moves around and how to protect it, ultimately contributing to open-source privacy and security tools.
+Currently, I'm enhancing my expertise by studying for the CCNA certifications. I'm actively learning and experimenting with tools like Cisco Packet Tracer to simulate complex networks. I'm also exploring Python, Bash, and PowerShell to develop automation scripts for networking tasks. While I'm still building my skill set, I'm dedicated to deepening my understanding of data flow and protection, with the goal of contributing to open-source privacy and security tools in the future.
 
-This blog is where I share insights from my journey in IT. Here, I focus on practical solutions, document my learning process, and discuss the latest developments in cybersecurity and networking. I believe in continuous learning and hope that by sharing my experiences, I can contribute to the community and help others on similar paths.
+This blog is where I share insights from my journey in IT. Here, I focus on practical solutions, document my learning process, and discuss the latest developments in cybersecurity and networking. I believe in continuous learning and hope that by sharing my experiences, I can contribute to the community and support others on similar paths.
 
-Outside of technology, I'm passionate about martial arts. I've wrestled, practiced jiu-jitsu, and even traveled to Thailand to live and train at a Muay Thai gym. These experiences have taught me discipline, resilience, and the importance of continuous improvement—principles I carry into my professional life. I also find balance through hiking and camping, which help me recharge and approach challenges with a fresh perspective.
+Outside of technology, I'm passionate about martial arts. I've wrestled, practiced jiu-jitsu, and even traveled to Thailand to live and train at a Muay Thai gym. These experiences have taught me discipline, resilience, and the importance of continuous improvement—principles I bring into my professional life. I also find balance through hiking and camping, which help me recharge and approach challenges with a fresh perspective.
 
-Thank you for visiting my site. I invite you to explore my blog, engage with the content, and join me as I navigate the ever-evolving landscape of technology. If you'd like to connect or discuss potential collaborations, feel free to reach out.
+Thank you for visiting my site. I invite you to explore my blog, engage with the content, and join me as I navigate the ever-evolving landscape of technology.
 
-This blog reflects my commitment to growing in IT security and network operations, as well as my passion for exploration and lifelong learning.
+This blog reflects my commitment to growth in IT security and network operations, along with my passion for exploration and lifelong learning.
