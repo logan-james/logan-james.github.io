@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello, I'm Logan—a Computer Science graduate passionate about IT security and network operations. My journey into technology wasn't a straight path—it began in childhood and reignited briefly when I worked as an electrician. During that time, I became fascinated by the software controlling industrial systems more than the electrical work itself. This realization led me back to school and set me on the path I'm pursuing today.
 
-Currently, I'm enhancing my expertise by studying for the CCNA certifications. I'm actively learning and experimenting with tools like Cisco Packet Tracer to simulate complex networks. I'm also exploring Python, Bash, and PowerShell to develop automation scripts for networking tasks. While I'm still building my skill set, I'm dedicated to deepening my understanding of data flow and protection, with the goal of contributing to open-source privacy and security tools in the future.
+Currently, I'm enhancing my expertise by studying for certifications. I'm actively learning and experimenting with tools like Cisco Packet Tracer to simulate complex networks. I'm also exploring methods for automation in redundant networking tasks. While I'm still building my skill set, I'm dedicated to deepening my understanding of data flow and protection, with the goal of contributing to open-source privacy and security tools in the future.
 
 This blog is where I share insights from my journey in IT. Here, I focus on practical solutions, document my learning process, and discuss the latest developments in cybersecurity and networking. I believe in continuous learning and hope that by sharing my experiences, I can contribute to the community and support others on similar paths.
 
