@@ -14,14 +14,12 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Logan—a Computer Science graduate passionate about IT security and network operations. My journey into technology wasn't a straight path—it began in childhood and reignited briefly when I worked as an electrician. During that time, I became fascinated by the software controlling industrial systems more than the electrical work itself. This realization led me back to school and set me on the path I'm pursuing today.
+Hello, I'm **Logan**—a Computer Science graduate with a deep passion for IT security and network operations. My journey into technology started in childhood and has been defined by a curiosity to understand how systems work. This curiosity eventually led me back to school, where I committed to mastering the intricacies of computer networks, cybersecurity, and automation.
 
-Currently, I'm enhancing my expertise by studying for certifications. I'm actively learning and experimenting with tools like Cisco Packet Tracer to simulate complex networks. I'm also exploring methods for automation in redundant networking tasks. While I'm still building my skill set, I'm dedicated to deepening my understanding of data flow and protection, with the goal of contributing to open-source privacy and security tools in the future.
+Currently, I’m enhancing my expertise through certifications while continuously experimenting with tools like Cisco Packet Tracer to simulate complex networks. I’m also diving into automation, finding efficient ways to streamline redundant networking tasks. As I build my skill set, I’m focused on deepening my understanding of data flow, network security, and privacy. My long-term goal is to contribute to open-source privacy and security tools that strengthen digital resilience.
 
-This blog is where I share insights from my journey in IT. Here, I focus on practical solutions, document my learning process, and discuss the latest developments in cybersecurity and networking. I believe in continuous learning and hope that by sharing my experiences, I can contribute to the community and support others on similar paths.
+This site is where I document my journey in IT. Here, I share practical solutions, document my learning experiences, and explore the latest developments in cybersecurity and networking. I believe in the power of continuous learning and aim to support others on similar paths by sharing my insights and discoveries.
 
-Outside of technology, I'm passionate about martial arts. I've wrestled, practiced jiu-jitsu, and even traveled to Thailand to live and train at a Muay Thai gym. These experiences have taught me discipline, resilience, and the importance of continuous improvement—principles I bring into my professional life. I also find balance through hiking and camping, which help me recharge and approach challenges with a fresh perspective.
+Beyond technology, I’m passionate about martial arts. Wrestling, jiu-jitsu, and my time training in Muay Thai in Thailand have taught me discipline, resilience, and the value of constant self-improvement—principles I bring to my professional life. Outside the gym, I find balance in hiking and camping, which help me recharge and bring a fresh perspective to problem-solving.
 
-Thank you for visiting my site. I invite you to explore my blog, engage with the content, and join me as I navigate the ever-evolving landscape of technology.
-
-This blog reflects my commitment to growth in IT security and network operations, along with my passion for exploration and lifelong learning.
+Thank you for visiting my site. I invite you to explore the content, engage with my blog, and join me as I navigate the dynamic world of technology. This space reflects my commitment to growth in IT security, network operations, and my passion for lifelong learning and exploration.
