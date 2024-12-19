@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Logan
-middle_name: A.
-last_name: James
-email: iamloganjames@protonmail.com # you@example.com
+first_name: Logan's
+middle_name:
+last_name: Lab
+email: # you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Logan James's homepage.
 footer_text: >
@@ -185,7 +185,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: #3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
