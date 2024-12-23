@@ -14,6 +14,4 @@ news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello World, welcome to my site.
-
----
+## Tech Enthusiast, Homelab Explorer, and IT Learner.
