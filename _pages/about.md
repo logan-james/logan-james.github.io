@@ -6,7 +6,7 @@ subtitle: <a href='https://loganslab.com/blog/2024/Journey-Fueled-by-Curiosity/'
 
 profile:
   align: #right
-  image: iconHeadShot.PNG
+  #image: iconHeadShot.PNG
   image_circular: true # crops the image to make it circular
 
 news: false # includes a list of news items
